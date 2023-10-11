@@ -2,3 +2,4 @@
 2.Chat screen code
 3.Last seen code
 4.Attachements
+5.Hdidng the last seen
